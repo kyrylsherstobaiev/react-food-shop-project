@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/react-food-shop-project/static/css/main.e5122436.css",
-    "main.js": "/github.io/react-food-shop-project/static/js/main.061a793e.js",
-    "index.html": "/github.io/react-food-shop-project/index.html",
-    "main.e5122436.css.map": "/github.io/react-food-shop-project/static/css/main.e5122436.css.map",
-    "main.061a793e.js.map": "/github.io/react-food-shop-project/static/js/main.061a793e.js.map"
+    "main.css": "/react-food-shop-project/static/css/main.e5122436.css",
+    "main.js": "/react-food-shop-project/static/js/main.061a793e.js",
+    "index.html": "/react-food-shop-project/index.html",
+    "main.e5122436.css.map": "/react-food-shop-project/static/css/main.e5122436.css.map",
+    "main.061a793e.js.map": "/react-food-shop-project/static/js/main.061a793e.js.map"
   },
   "entrypoints": [
     "static/css/main.e5122436.css",
