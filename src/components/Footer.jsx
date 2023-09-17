@@ -5,7 +5,7 @@ function Footer() {
                 <div className="container">
                     © {new Date().getFullYear()} Copyright Text
                     <a className="grey-text text-lighten-4 right"
-                       href="#" rel="noreferrer"
+                       href="https://github.com/kyrylsherstobaiev/react-food-shop-project" rel="noreferrer"
                        target="_blank">Repo</a>
                 </div>
             </div>
